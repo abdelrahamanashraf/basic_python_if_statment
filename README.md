@@ -8,4 +8,8 @@ So the equation that the program must solve will be :
 -b + root(b^2 – 4*a* c)/2*a
 -b - root(b^2 – 4*a* c)/2*a
 
+
+test on write equation and if statment by python 
+
+
 # solution on notebook 
